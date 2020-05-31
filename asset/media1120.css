@@ -1,0 +1,13 @@
+.contact-form__row {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .contact-form__row .contact__input {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+    min-width: unset;
+    box-sizing: border-box; }

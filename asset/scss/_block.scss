@@ -1,0 +1,49 @@
+body {
+    background-color: #f5f5f5;
+}
+.container {
+    max-width: 1170px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+.p-main {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.h1-headline {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    max-width: 800px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.h2-headline {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color: #646464;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0.26em;
+}
+.link-header {
+    display: inline-flex;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    border: 2px solid;
+    text-transform: uppercase;
+    height: 47px;
+    padding: 0 40px;
+}
+.form-item {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+    letter-spacing: 0.06em;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #ababab;
+    border: 1px solid;
+}

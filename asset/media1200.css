@@ -1,0 +1,24 @@
+.contact-form__row {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .contact-form__row .contact__input {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+    min-width: unset;
+    box-sizing: border-box; }
+
+.contact__form .contact-form__message {
+  display: block;
+  max-width: 800px;
+  margin: 30px auto 0; }
+
+.column-item {
+  font-size: 12px; }
+
+.container {
+  padding: 0 30px; }
